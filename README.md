@@ -9,7 +9,7 @@
  - One of Accenture’s Managing Directors, Mae Mulligan, is the client lead for Social Buzz.
  - She has reviewed the brief provided by Social Buzz and has assembled a diverse team of Accenture experts to deliver the project.
  - Mae has scheduled a project kick off call with the internal Accenture project team for tomorrow morning.
- - About Client : [Social Buzz](https://github.com/Sinhaaz/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/blob/main/Data_Analytics%20Client%20Brief.pdf)
+ - About Client : [Social Buzz](https://github.com/TPrasad98/Accenture_dataanalytics_visualization_virtual_internship/blob/637179c60b6d2d4bec3633ab24a9e6ea2daf7fec/Data_Analytics%20Client%20Brief.pdf)
 
 #### Task for Accenture : 
 
